@@ -13,7 +13,7 @@ I think I have the project setup correctly and haven’t noticed any issues so f
 
 ## What will I do next week? ##
 
-Next week, I’ll complete and turn in the Collatz project. I’m trying to use the “test-first” style I learnt during my internship by writing a whole bunch of unit tests before I finish major pieces of the code. I’m also trying to catch up on a lot of work for all of my classes since I know the recruitment season is fast approaching and I want to stay ahead before it gets too busy. I’m also in the process of updating my LinkedIn and polishing my resume.
+Next week, I’ll complete and turn in the Collatz project. I’m trying to use the “test-first” style I learnt during my internship by writing a whole bunch of unit tests before I finish major pieces of the code. I’m also trying to catch up on a lot of work for all of my other classes since I know the recruitment season is fast approaching and I want to stay ahead before it gets too busy. I’m also in the process of updating my LinkedIn and polishing my resume.
   
 ## Pick of the week ##
 
