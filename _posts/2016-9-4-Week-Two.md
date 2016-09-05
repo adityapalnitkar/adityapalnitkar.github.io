@@ -17,6 +17,6 @@ Next week, I’ll complete and turn in the Collatz project. I’m trying to use 
   
 ## Pick of the week ##
 
-I take a lot of online courses/video tutorials to pick up technology/business skills outside of class. One of my favorite sources for online learning since I started at UT is Lynda.com.  Their library is vast and provides intensive training for even advanced software. I especially like their instructors since all of them are vetted and create high quality content. As a UT student, you get access to all the Lynda courses for free. Just go here, enter “utexas.edu” and sign in with your UT EID!
+I take a lot of online courses/video tutorials to pick up technology/business skills outside of class. One of my favorite sources for online learning since I started at UT is Lynda.com.  Their library is vast and provides intensive training for even advanced software. I especially like their instructors since all of them are vetted and create high quality content. As a UT student, you get access to all the Lynda courses for free. Just go here (https://www.lynda.com/signin/organization), enter “utexas.edu” and sign in with your UT EID!
 
 That's all I have for week two, thanks for stopping by!
