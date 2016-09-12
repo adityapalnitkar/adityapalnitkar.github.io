@@ -8,7 +8,7 @@ title: Week Three
 This past week, I finished and turned in the Collatz project. I also had Statistics and Algorithms homework that I completed during the week.
 What I liked about the first project was that the code was actually the simplest aspect of the project. The tricky part was dealing with errors on Windows, Travis failing unexpectedly and issues running the tests. That said, the project was not too bad overall, but there is room for improvement as outlined below.
 
-- The instructions for this project were quite unclear. While I understand Prof. Downing wants us to ask questions and clarify on Piazza, it would have helped to have well defined project requirements from the start. As for the actual turnin, the files required were listed in a Piazza post but there were frequent changes being made to what was expected.
+- The instructions for this project were quite unclear. While I understand Prof. Downing wants us to ask questions and clarify on Piazza, it would have helped to have well defined project requirements from the start. As for the actual turnin, the files required were listed on multiple Piazza posts with frequent changes being made to what was expected.
 
 - I feel like we should have access to the testing script the graders use. It is very unsettling knowing that I can be docked points even though everything may have worked just fine after running make test but the code may have issues that were not caught. Currently, it just seems like there is a lot of uncertainty regarding things out of my control that could affect my grade.
 
