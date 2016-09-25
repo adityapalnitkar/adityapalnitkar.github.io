@@ -17,6 +17,6 @@ Next week, I will study for my tests and finish up some more online internship a
 
 ## Tip of the week ##
 
-As computer science students, most of us spend a lot time sitting at a desk working on a computer. In college and industry, exercise and maintaining a good posture is crucial. With the 7 Minute Workout, you can always squeeze some high-intensity exercise. Breaking a quick sweat every day is better than skipping exercise entirely, especially when free time is tight. Personally, I have noticed an overall productivity and a decrease in stress. Try it out!
+As computer science students, most of us spend a lot time sitting at a desk working on a computer. In college and industry, exercise and maintaining a good posture is crucial. With the [7 Minute Workout](http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/) ([Android](https://play.google.com/store/apps/details?id=com.popularapp.sevenmins), [iOS](https://itunes.apple.com/us/app/7-minute-workout-free-daily/id650762525)), you can always squeeze some high-intensity exercise. Breaking a quick sweat every day is better than skipping exercise entirely, especially when free time is tight. Personally, I have noticed an overall productivity and a decrease in stress. Try it out!
 
 This concludes my post for week five, thanks for reading!
