@@ -17,6 +17,6 @@ Next week I’ll mainly be catching up on assignments and readings. I’ll be me
 
 ## Tip of the week ##
 
-I shop on Amazon a lot. Especially since the Prime student subscription is half price and Austin has 2 hour delivery. (Amazon Smile)[http://smile.amazon.com/gp/chpf/about/ref=smi_aas_redirect], automatically donates 0.5% of your purchases to the charity of your choice. It costs both you and the charity nothing – you just shop on Amazon like you normally would, and do some good without any time or effort. All you have to do is update your bookmark to start shopping at (smile.amazon.com)[smile.amazon.com]!
+I shop on Amazon a lot. Especially since the Prime student subscription is half price and Austin has 2 hour delivery. [Amazon Smile](http://smile.amazon.com/gp/chpf/about/ref=smi_aas_redirect), automatically donates 0.5% of your purchases to the charity of your choice. It costs both you and the charity nothing – you just shop on Amazon like you normally would, and do some good without any time or effort. All you have to do is update your bookmark to start shopping at [smile.amazon.com](smile.amazon.com)!
 
 That's it for week eight, thanks for reading!
