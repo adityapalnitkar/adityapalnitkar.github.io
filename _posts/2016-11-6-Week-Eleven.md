@@ -17,6 +17,6 @@ I will get started on the next project – Life. My focus will be to find a part
 
 ## Tip of the week ##
 
-This website tells you what you would have made if you had invested the price of an iconic product at launch into the company stock instead. It is a pretty cool website to play around with. If you want to get started on investing small amounts, I’d recommend [Robinhood](https://robinhood.com/) (it lets you trade without fees).
+[This website](http://investedinstead.com/) tells you what you would have made if you had invested the price of an iconic product at launch into the company stock instead. It is a pretty cool website to play around with. If you want to get started on investing small amounts, I’d recommend [Robinhood](https://robinhood.com/) (it lets you trade without fees).
 
 That's all I for week eleven, thanks for stopping by!
