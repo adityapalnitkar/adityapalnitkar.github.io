@@ -13,7 +13,7 @@ Not much. Since we had an Algo exam last week, there is no homework to turn-in t
 
 ## What will I do next week? ##
 
-I will get started on the next project – Life. My focus will be to find a partner and finish this last project as early as possible. Election Day is coming up and we will soon know the result of this crazy campaign. Whatever your political view, remember to go vote and make your voice heard!
+I will get started on the next project – Life. My focus will be to find a partner and finish this last project as early as possible. Election Day is coming up - whatever your political view, remember to go vote and make your voice heard!
 
 ## Tip of the week ##
 
