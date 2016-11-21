@@ -5,7 +5,7 @@ title: Week Thirteen
 
 ## What did I do this past week? ##
 
-This past week, I worked on Life and turned it in. Since I was working solo, I had to write 70+ unit tests on my own which took a while but I turned it in with plenty of time to spare. The code for Life wasn’t that bad, but the overall design was definitely more challenging than Darwin. In class, we talked more about virtual functions and dynamic casts, and discussed some more differences between C++ and Java. On Wednesday we had a talk by engineers from Spiceworks.
+This past week, I worked on Life and turned it in. Since I was working solo, I had to write 70+ unit tests on my own which took a while but I turned it in with plenty of time to spare. The code for Life wasn’t that bad, but the overall design was definitely more challenging than Darwin. In class, we talked about virtual functions and dynamic casts, and discussed some more differences between C++ and Java. On Wednesday we had a talk by engineers from Spiceworks.
 
 ## What's in the way? ##
 
