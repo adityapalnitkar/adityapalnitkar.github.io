@@ -9,7 +9,7 @@ This past week, I worked on Life and turned it in. Since I was working solo, I h
 
 ## What's in the way? ##
 
-Thanksgiving break! I’m traveling to Virginia to visit some relatives and I am looking forward to a much needed break. It’s going to be hard to stay productive, but I will have to since I have two projects, and OOP, Applied Stats and Algo exams the week after. Add to that two more finals during finals week and that means I have a lot to do in the next three weeks. I am hoping I can use the down time well and review all the material for all my classes. This “home stretch” is especially important since there is a such a large portion of all my grades yet to be determined.
+Thanksgiving break! I’m traveling to Virginia to visit relatives and I am looking forward to a much needed break. It’s going to be hard to stay productive, but I will have to since I have two projects, and OOP, Applied Stats and Algo exams the week after. Add to that two more finals during finals week and that means I have a lot to do in the next three weeks. I am hoping I can use the down time well and review all the material for all my classes. This “home stretch” is especially important since there is a such a large portion of all my grades yet to be determined.
 
 ## What will I do next week? ##
 
