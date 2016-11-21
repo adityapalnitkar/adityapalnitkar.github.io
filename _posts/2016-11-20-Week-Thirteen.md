@@ -19,4 +19,4 @@ I have Algo homework to turn in before Wednesday, so I will try to get that done
 
 I hate holding when I call a customer service number. [GetHuman](https://gethuman.com/) gives you the prompts you need to navigate the phone tree that will get you to a representative the quickest. Often, there is also a direct number that gets you connected with an actual person rather than a machine.
 
-That’s all I have for week thirteen, thanks for stopping by!	
+That’s all I have for week thirteen, thanks for stopping by!
