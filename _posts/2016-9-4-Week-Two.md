@@ -1,8 +1,3 @@
----
-layout: post
-title: Week Two
----
-
 ## What did I do this past week? ##
 
 This week, I got started on the reading and began work on the Collatz project. In class, Prof. Downing spent some time going over the steps required to set up the project properly. We also reviewed an algorithm to determine if a number is prime and looked at how to fix broken unit tests. Meanwhile, I got Travis CI and Docker working on my Windows laptop.
