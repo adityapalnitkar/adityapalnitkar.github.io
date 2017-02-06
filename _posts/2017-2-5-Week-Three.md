@@ -23,6 +23,6 @@ First, I felt that the instructions for this project were quite unclear. While I
 
 ## Tip of the week ##
 
-The spring career fair is next week. While I have an internship for the summer, for those still recruiting, make it a point to solve programming problems on an actual whiteboard rather than just practicing on a computer with a compiler. Also remember to ask the recruiter about the format of the interview and coding questions in advance. Being prepared will make it will be easier to navigate a complex scenario presented to you in a real interview and reduce the chance that you will freeze and forget something simple like how to initialize an array.
+The spring career fair is in two weeks. While I have an internship for the summer, for those still recruiting, make it a point to solve programming problems on an actual whiteboard rather than just practicing on a computer with a compiler. Also remember to ask the recruiter about the format of the interview and coding questions in advance. Being prepared will make it will be easier to navigate a complex scenario presented to you in a real interview and reduce the chance that you will freeze and forget something simple like how to initialize an array.
 
 That concludes my post for week three, thanks for reading!
