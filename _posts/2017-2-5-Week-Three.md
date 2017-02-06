@@ -5,7 +5,7 @@ title: Week Three
 
 ## What did I do this past week? ##
 
-This past week, I finished and turned in the Collatz project and worked on some Marketing homework that was due Friday. I also had a Compilers lab due on Thursday that I finished during the week. This week was definitely busier than the previous few and all my classes are really starting to gear up.
+This past week, I finished and turned in the Collatz project, and worked on some Marketing homework that was due Friday. I also had a Compilers lab due on Thursday that I finished during the week. This week was definitely busier than the previous few and all my classes are really starting to gear up.
 
 ## What's in the way? ##
 
