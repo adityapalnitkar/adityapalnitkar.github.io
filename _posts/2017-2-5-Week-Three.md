@@ -9,11 +9,11 @@ This past week, I finished and turned in the Collatz project, and worked on some
 
 ## What's in the way? ##
 
-In class, we talked some more about Python and how types work. Python is pretty tricky even though it looks fairly simple to learn. For example, it took me a while to get used to using tabs and indentation rather than curly brackets. My quiz scores tell me that I need to spend more time reviewing the readings and exploring these fundamental Python concepts on my own.
+In class, we talked some more about Python and how types work. Python is pretty tricky even though it looks fairly simple to learn. For example, it took me a while to get used to using tabs and indentation rather than curly brackets. My quiz scores tell me that I need to spend more time reviewing the readings and exploring some fundamental Python concepts on my own.
 
 ## What will I do next week? ##
 
-Next week, I’d like to catch up with assignments in all of my classes. The second project - Netflix has been released, so I will begin work on that to finish as early as possible.  
+Next week, I’d like to catch up on assignments in all of my classes. The second project - Netflix has been released, so I will begin work on that to finish as early as possible.  
 
 ## What’s my experience of the class? ##
 
