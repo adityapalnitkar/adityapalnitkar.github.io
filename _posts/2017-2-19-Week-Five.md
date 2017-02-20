@@ -17,7 +17,7 @@ Next week, I will study for my tests and finish some assignments for my other cl
 
 ## What’s my experience of the class? ##
 
-The class material is getting slightly more difficult, in my opinion. I was a bit lost when we covered lambdas/closures. The quiz questions are always based off examples from class and my streak of 5s on the quizzes was broken at the start of last week. I spent some time this weekend reading the class notes and looking over the code again to make these topics clearer. 
+The class material is getting slightly more difficult, in my opinion. I was a bit lost when we covered lambdas/closures. The quiz questions are always based off examples from class and my streak of 5s on the quizzes was broken at the start of last week. I spent some time this weekend reading the class notes and looking over the code again to clarify these topics. 
 
 ## Tip of the week ##
 
