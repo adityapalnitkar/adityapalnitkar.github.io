@@ -13,7 +13,7 @@ I have exams in almost all my classes coming up in the next two weeks, so I have
 
 ## What will I do next week? ##
 
-Next week, I will study for my tests and finish some assignments for my other classes. I also plan to make a note sheet for the SWE exam, since Python is a language I am not at all familiar with, so I want to get as much practice as possible. I'd also like to review all the code examples and class notes before the upcoming test. I have a group for the next project, so I am excited to see what the assignments are like. I expect it's going to be very interesting - I've never worked on a class project with a team as large as 6 before!
+Next week, I will study for my tests and finish some assignments for my other classes. I also plan to make a note sheet for the SWE exam, since Python is a language I am not at all familiar with, so I want to get as much practice as possible. I'd also like to review all the code examples and class notes before the upcoming test.
 
 ## What’s my experience of the class? ##
 
