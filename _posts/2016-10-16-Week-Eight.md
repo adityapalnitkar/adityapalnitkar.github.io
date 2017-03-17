@@ -5,15 +5,19 @@ title: Week Eight
 
 ## What did I do this past week? ##
 
-This week in class, we went over some differences between C++ pointers and C++ arrays. We also looked at how allocators work in C++, as well as the differences between explicit deallocation and garbage collection. Monday’s class was especially helpful in starting on the Allocator project. I’m flying solo on this project, but I’m pretty much done, just have a few wrinkles to iron out before I can begin writing unit tests. 
+Last week, we had engineers from Google and Redhat give talks about GCP and AWS. Prof. Downing discussed the IDB project, where we are supposed to create a feature rich website, similar to IMDB. My group has decided on a website where we scrape Crunchbase and put together information about different companies, investors, and people. We discussed multiple frameworks, and ended up deciding on using React, Bootstrap, Flask, and SQLAlchemy.
 
 ## What's in the way? ##
 
-Not much, especially since the first round of midterms in all my classes is over. I have a few more interviews scheduled next week which I will study for. Project 2 grades were recently released and yet again, I lost points on something trivial like documentation. I really need to focus on all parts of the projects equally when I work on them. I’m also not exactly looking forward to getting back grades for the test.
+Spring break - this is good and bad - since a break from the regular routine is always nice, but it is easy to fall behind on things that are due during/after break (like this blog!). Other than that, not much, especially since the first round of midterms in all my classes is over. 
 
 ## What will I do next week? ##
 
-Next week I’ll mainly be catching up on assignments and readings. I’ll be meeting with an advisor to review my plans for the next few semesters. I also have to renew my passport before winter break since I have no literally space left after my travels during the summer working at American Airlines. Of course, I will finish the allocator project as early as possible to avoid any last-minute snafus. One of my interviews this week involves a case study which will take some preparation. 
+Next week I’ll be in Virginia visiting some family. The plan is to go skiing somewhere in the area and take a road trip to North Carolina. I will also try to get ahead on work for all my classes. Mainly, I want to try and get my group together (electronically) and finish some work on the next project to avoid any last-minute snafus.
+
+## What's my experience of the class? ##
+
+Last week, we only had two days of class. We also had two talks, one where we were explained Google Cloud Platform and the other went over the intricacies of Amazon Web Services. I liked these talks since we got the gist of how to use these services in an easy to understand presentation.
 
 ## Tip of the week ##
 
