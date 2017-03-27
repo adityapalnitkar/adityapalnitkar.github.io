@@ -5,15 +5,15 @@ title: Week Nine
 
 ## What did I do this past week? ##
 
-Flew back to Austin on Sunday and got to work right away. This past week, [my group and I finished the first phase of the IDB project](http://www.sweatshop.tech/). We did not get much work done together during Spring Break, so it was a bit hectic when school resumed. On Wednesday, I had a test to get my foreign language credit that I think went well. I also had some work for Compilers and Marketing
+Flew back to Austin on Sunday and got to work right away. This past week, [my group and I finished the first phase of the IDB project](http://www.sweatshop.tech/). We did not get much work done together during Spring Break, so it was a bit hectic when school resumed. On Wednesday, I had a test to get my foreign language credit that I think went well. I also had some work for Compilers and Marketing.
 
 ## What's in the way? ##
 
-I don't think I contributed enough to the first phase of our project. This was mainly due to my language test and other submissions that came up at the same time. Although I put in as much time as I possibly could for the first submission, I feel like I have not fully understand how all aspects of our website work yet. Over the next few days, I'd like to review the work my partners did by analyzing each commit so that I can add more value where it is needed in Phase 2.
+I don't think I contributed enough to the first phase of our project. This was mainly due to my language test and other submissions that came up at the same time. Although I put in as much time as I possibly could for the first phase, I feel like I have not fully understood how all aspects of our website work yet. Over the next few days, I'd like to review the work my group did by analyzing each commit so that I can add more value where it is needed in Phase 2.
 
 ## What will I do next week? ##
 
-Next week, our group will work on Phase 2 of the project. Since this part involves database work, we are slightly less worried as we are already using a way to dynamically serve content on our pages. I have a Compilers project due Monday, followed by Networks assignment and exam due Wednesday and Friday respectively. I expect a hectic week.
+Next week, our group will work on Phase 2 of the project. Since this part involves database work, we are slightly less worried as we are already using a way to dynamically serve content on our pages. I also have a Compilers project due Monday, followed by Networks assignment and exam due Wednesday and Friday respectively - I expect a hectic week.
 
 ## What's my experience of the class? ##
 
