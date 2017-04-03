@@ -5,7 +5,7 @@ title: Week Ten
 
 ## What did I do this past week? ##
 
-This past week, I studied for and took a Networks midterm. I had to balance that with working on Phase 2 of the IDB project with my group. I especially spent some time trying to further my understanding of how our website works in all aspects. In our project we use the Crunchbase API, however, we did not realize that it only allows access to only about a hundred instances for free. Fortunately, we figured out a way to work aroud it that Prof. Downing approved. I also spoke with my advisor and got credit for my Hindi language test that I took two weeks ago - which gave me a nice 6 credit boost in my degree plan.
+This past week, I studied for and took a Networks midterm. I had to balance that with working on Phase 2 of the IDB project with my group. I especially spent some time trying to further my understanding of how our website works in all aspects. In our project we use the Crunchbase API, however, we did not realize that it allows access to only about a hundred instances for free. Fortunately, we figured out a way to work aroud it that Prof. Downing approved. I also spoke with my advisor and got credit for my Hindi language test that I took two weeks ago - which gave me a nice 6 credit boost in my degree plan.
 
 ## What's in the way? ##
 
