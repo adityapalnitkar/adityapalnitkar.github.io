@@ -21,6 +21,6 @@ I feel like we went over Relational Algebra and SQL pretty fast - I took a datab
 
 ## Tip of the week ##
 
-I’ve always wanted to learn morse code, and [this website](https://www.morsecode.io/) has a tutorial in a very neat layout.
+I hate holding when I call a customer service number. [GetHuman](https://gethuman.com/) gives you the prompts you need to navigate the phone tree that will get you to a representative the quickest. Often, there is also a direct number that gets you connected with an actual person rather than a machine.
 
 That's all for week eleven, thanks for stopping by!
