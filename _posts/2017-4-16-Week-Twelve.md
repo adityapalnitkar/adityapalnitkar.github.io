@@ -17,7 +17,7 @@ Next week, I will work on the last phase of the IDB project with my group. Creat
 
 ## What’s my experience of the class? ##
 
-In class, we covered refactoring techniques. These are handy but it is important to know which situations to use refactoring in. As I mentioned earlier, the quiz questions based off the Fowler book were pretty tricky, and I did not do very well on them. We also went over Java concepts like dynamic binding. I am enjoying the switch to newer material.
+In class, we covered refactoring techniques. These are handy but it is important to know which situations to use refactoring in. As I mentioned earlier, the quiz questions based off the Fowler book were pretty tricky, and I did not do very well on them. We also went over Java concepts like dynamic binding. I am enjoying the switch to new material.
 
 ## Tip of the week ##
 
