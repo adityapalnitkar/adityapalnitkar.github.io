@@ -9,7 +9,7 @@ This past week, I worked with my group to prepare our presentation for the IDB p
 
 ## What's in the way? ##
 
-I have three exams and two major projects due in my classes next week. It's important to keep focus, since a large portion of my grade in almost every class is yet to be determined. We have covered a lot of material in SWE since the last exam like SQL, Regex, JSON, Java, etc. It's a lot of new information so covering all the topics plus the readings while studying is a challenge. 
+I have three exams and two major projects due in my classes next week. It's important to keep focus, since a large portion of my grade in almost every class is yet to be determined. We have covered a lot of material in SWE since the last exam, like SQL, Regex, JSON, Java, etc. It's a lot of new information so covering all the topics plus the readings while studying is a challenge. 
 
 ## What will I do next week? ##
 
