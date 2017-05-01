@@ -13,7 +13,7 @@ I have three exams and two major projects due in my classes next week. It's impo
 
 ## What will I do next week? ##
 
-Next week, I will present [our website](sweatshop.tech) with my group in class. I will continue studying for the SWE exam - I want to revise all the material and create a cheat sheet soon. I will also wrap up work for my other classes and mainly devote time to work on my Compilers final project due at the end of the week. 
+Next week, I will present [our website](www.sweatshop.tech) with my group in class. I will continue studying for the SWE exam - I want to revise all the material and create a cheat sheet soon. I will also wrap up work for my other classes and mainly devote time to work on my Compilers final project due at the end of the week. 
 
 ## What’s my experience of the class? ##
 
